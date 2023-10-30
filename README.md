@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Setup
 `
-    git clone https://github.com/tansagit/react-intensive-training.git
-    npm install
+    git clone https://github.com/tansagit/react-intensive-training.git <br/>
+    npm install <br/>
     npm start
 `
 ### Functions
